@@ -18,6 +18,8 @@ Data files:
 Code File:
 - `CreditRiskAssessment.py`
 
+Please make sure all data files are in the same folder as the code file when running it.
+
 ## Requirements
 This project requires the following Python libraries:
 - `numpy`
